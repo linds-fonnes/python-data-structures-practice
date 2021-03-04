@@ -10,5 +10,5 @@ def compact(lst):
     #         new_lst.append(item)
     # return new_lst
 
-    return [item for item in lst if item == True]
+    return [item for item in lst if item]
     
